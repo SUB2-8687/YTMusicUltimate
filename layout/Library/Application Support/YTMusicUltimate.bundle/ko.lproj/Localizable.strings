@@ -1,7 +1,7 @@
 "SETTINGS" = "설정";
 "ENABLED" = "YTMusicUltimate 활성화";
 "ENABLED_DESC" = "프리미엄 기능, 광고 제거, 백그라운드 재생 등.";
-"RESTART_FOOTER" = "변경 사항을 적용하려면 앱을 재시작하세요.";
+"RESTART_FOOTER" = "변경사항을 적용하려면 앱을 재시작하세요.";
 
 "PREMIUM_SETTINGS" = "프리미엄 옵션";
 "NO_ADS" = "광고 제거";
@@ -82,11 +82,11 @@
 
 "LINKS" = "링크";
 "TWITTER" = "Twitter에서 %@ 팔로우";
-"TWITTER_DESC" = "업데이트 소식을 받아보세요.";
+"TWITTER_DESC" = "업데이트 소식을 받아 보세요.";
 "DISCORD" = "Discord 참여하기";
 "DISCORD_DESC" = "버그 신고 및 기능을 요청하세요.";
 "SOURCE_CODE" = "소스 코드";
-"SOURCE_CODE_DESC" = "코드를 확인해보세요.";
+"SOURCE_CODE_DESC" = "코드를 확인해 보세요.";
 
 "CLOSE" = "닫기";
 "WARNING" = "경고";
@@ -100,7 +100,7 @@
 "DONT_RUSH" = "잠시만 기다려주세요.";
 "DONT_RUSH_DESC" = "링크 추출을 위해 곡을 재생해야 합니다.";
 "SELECT_ACTION" = "작업 선택";
-"DOWNLOAD_PREMIUM" = "다운로드 (프리미엄 필요)";
+"DOWNLOAD_PREMIUM" = "다운로드(프리미엄 필요)";
 "DOWNLOADING" = "다운로드 중";
 "OOPS" = "이런\n오류가 발생했습니다.";
 "LINK_NOT_FOUND" = "링크를 찾을 수 없습니다.";
