@@ -100,7 +100,7 @@
 "DONT_RUSH" = "잠시만 기다려주세요.";
 "DONT_RUSH_DESC" = "링크 추출을 위해 곡을 재생해야 합니다.";
 "SELECT_ACTION" = "작업 선택";
-"DOWNLOAD_PREMIUM" = "다운로드(프리미엄 필요)";
+"DOWNLOAD_PREMIUM" = "다운로드 (프리미엄 필요)";
 "DOWNLOADING" = "다운로드 중";
 "OOPS" = "이런\n오류가 발생했습니다.";
 "LINK_NOT_FOUND" = "링크를 찾을 수 없습니다.";
