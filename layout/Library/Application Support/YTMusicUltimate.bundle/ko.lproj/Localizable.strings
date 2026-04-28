@@ -5,7 +5,7 @@
 
 "PREMIUM_SETTINGS" = "프리미엄 옵션";
 "NO_ADS" = "광고 제거";
-"NO_ADS_DESC" = "앱 내 광고를 제거합니다";
+"NO_ADS_DESC" = "앱 내 광고를 제거합니다.";
 "BACKGROUND_PLAYBACK" = "백그라운드 재생";
 "BACKGROUND_PLAYBACK_DESC" = "백그라운드 재생을 활성화합니다.";
 "FORCE_PREMIUM" = "프리미엄 강제 활성화";
@@ -38,7 +38,7 @@
 "SB_NOTIF_DURATION" = "알림 표시 시간(초)";
 
 "SEEK_BUTTONS" = "다음/이전 버튼을 앞으로/뒤로 탐색 버튼으로 교체";
-"SEEK_TIME_FOOTER" = "탐색 시간을 초 단위로 선택하세요\n\n기본값:\n뒤로 탐색 = 10초\n앞으로 탐색 = 30초\n\n버튼을 길게 누르면 다음 및 이전 트랙으로 이동할 수 있습니다.";
+"SEEK_TIME_FOOTER" = "탐색 시간을 초 단위로 선택하세요.\n\n기본값:\n뒤로 탐색 = 10초\n앞으로 탐색 = 30초\n\n버튼을 길게 누르면 다음 및 이전 트랙으로 이동할 수 있습니다.";
 "DEFAULT" = "기본값";
 
 "THEME_SETTINGS" = "테마 옵션";
