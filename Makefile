@@ -22,3 +22,7 @@ $(TWEAK_NAME)_FILES += Source/Sideloading.x
 endif
 
 include $(THEOS_MAKE_PATH)/tweak.mk
+
+# 패키징 직전에 en.lproj, ko.lproj 를 제외한 나머지 언어팩 삭제
+after-stage::
+	@sh ./prune_localizations.sh "$(THEOS_STAGING_DIR)"
